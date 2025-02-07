@@ -8,6 +8,8 @@ Este repositório contém 23 exemplos práticos de Design Patterns implementados
 
 Design Patterns são soluções reutilizáveis para problemas comuns de projeto de software. Eles representam práticas recomendadas e podem economizar tempo e esforço no desenvolvimento de aplicações.
 
+PPT -> [Aqui](https://github.com/mauriciobenigno/DesignPatternsKotlin_examples/raw/refs/heads/master/Design%20Patterns.pptx) 
+
 ## Lista de Design Patterns
 
 Este repositório abrange os seguintes Design Patterns:
