@@ -1,17 +1,14 @@
 package designPatterns.behavioralPatterns.state
 
-object ExampleState {
+fun main() {
+    val cardInvoiceDownloader = CardInvoiceDownloaderImpl()
+    cardInvoiceDownloader.checkDownloadState()
 
-    fun main() {
-        val cardInvoiceDownloader = CardInvoiceDownloaderImpl()
-        cardInvoiceDownloader.checkDownloadState()
+    cardInvoiceDownloader.start()
 
-        cardInvoiceDownloader.start()
+    cardInvoiceDownloader.checkDownloadState()
 
-        cardInvoiceDownloader.checkDownloadState()
+    cardInvoiceDownloader.finish()
 
-        cardInvoiceDownloader.finish()
-
-        cardInvoiceDownloader.checkDownloadState()
-    }
+    cardInvoiceDownloader.checkDownloadState()
 }
