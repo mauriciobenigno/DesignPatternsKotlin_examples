@@ -1,8 +1,8 @@
-# 22 Exemplos de Design Patterns em Kotlin
+# 23 Exemplos de Design Patterns em Kotlin
 
 Opa, e ai, bão??! 
 
-Este repositório contém 22 exemplos práticos de Design Patterns implementados em Kotlin. O objetivo é fornecer exemplos claros e concisos de como aplicar cada padrão em cenários do mundo real.
+Este repositório contém 23 exemplos práticos de Design Patterns implementados em Kotlin. O objetivo é fornecer exemplos claros e concisos de como aplicar cada padrão em cenários do mundo real.
 
 ## O que são Design Patterns?
 
